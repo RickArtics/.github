@@ -16,13 +16,13 @@ Easy to pick up, hard to put down, and made with care from the first pixel to th
 <table>
   <tr>
     <td width="96" valign="top">
-      <a href="https://play.google.com/store/apps/details?id=com.rickartics.celebrity_match">
+      <a href="https://play.google.com/store/apps/details?id=com.rickartics.celebritymatch">
         <img src="./assets/celebrity-match-icon.png" alt="Celebrity Match app icon" width="80" />
       </a>
     </td>
     <td valign="top">
       <b>Celebrity Match</b> · Birthday twins · Android<br />
-      <sub>Out now on <a href="https://play.google.com/store/apps/details?id=com.rickartics.celebrity_match">Google Play</a> · iOS coming soon</sub>
+      <sub>Out now on <a href="https://play.google.com/store/apps/details?id=com.rickartics.celebritymatch">Google Play</a> · iOS coming soon</sub>
       <p>Enter your birthday and meet the actors, musicians, athletes and icons born on the very same day as you. Save your favourite stars, share your match, and get a nudge when someone you share a birthday with is celebrating. No sign-up: your birthday stays on your phone.</p>
     </td>
   </tr>
