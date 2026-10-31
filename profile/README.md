@@ -16,12 +16,35 @@ Easy to pick up, hard to put down, and made with care from the first pixel to th
 <table>
   <tr>
     <td width="96" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.rickartics.celebrity_match">
+        <img src="./assets/celebrity-match-icon.png" alt="Celebrity Match app icon" width="80" />
+      </a>
+    </td>
+    <td valign="top">
+      <b>Celebrity Match</b> · Birthday twins · Android<br />
+      <sub>Out now on <a href="https://play.google.com/store/apps/details?id=com.rickartics.celebrity_match">Google Play</a> · iOS coming soon</sub>
+      <p>Enter your birthday and meet the actors, musicians, athletes and icons born on the very same day as you. Save your favourite stars, share your match, and get a nudge when someone you share a birthday with is celebrating. No sign-up: your birthday stays on your phone.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="96" valign="top">
       <img src="./assets/blocora-icon.png" alt="Blocora app icon" width="80" />
     </td>
     <td valign="top">
       <b>Blocora</b> · Block puzzle · iOS and Android<br />
       <sub>Coming soon</sub>
       <p>A joyful block puzzle where every line you clear becomes a building, and the buildings grow into your own little borough. Play the same <i>Daily Block</i> as everyone else, once a day.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="96" valign="top">
+      <img src="./assets/dofus-guide-icon.png" alt="Dofus Guide app icon" width="80" />
+    </td>
+    <td valign="top">
+      <b>Dofus Guide</b> · Companion for Dofus Touch · iOS and Android<br />
+      <sub>Coming soon</sub>
+      <p>Everything a Dofus Touch player needs in one pocket guide: classes and builds, a 1→200 leveling path, dungeons, the Dofus egg collection, professions and 100+ quick tips. Works fully offline, with no ads and no account.</p>
+      <sub><i>Fan-made. Not affiliated with or endorsed by Ankama. Dofus is a trademark of Ankama.</i></sub>
     </td>
   </tr>
   <tr>
