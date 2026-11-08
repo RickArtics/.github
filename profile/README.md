@@ -28,23 +28,69 @@ Easy to pick up, hard to put down, and made with care from the first pixel to th
   </tr>
   <tr>
     <td width="96" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.rickartics.pollydoku">
+        <img src="./assets/pollydoku-icon.png" alt="Pollydoku app icon" width="80" />
+      </a>
+    </td>
+    <td valign="top">
+      <b>Pollydoku</b> · Logic grid puzzle · Android<br />
+      <sub>Out now on <a href="https://play.google.com/store/apps/details?id=com.rickartics.pollydoku">Google Play</a></sub>
+      <p>Find the hidden gold with pure logic. A calm brain puzzle to think through at your own pace, with a new daily challenge to come back to.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="96" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.rickartics.chroma_loop">
+        <img src="./assets/chroma-loop-icon.png" alt="Chroma Loop app icon" width="80" />
+      </a>
+    </td>
+    <td valign="top">
+      <b>Chroma Loop</b> · Color shooter puzzle · Android<br />
+      <sub>Out now on <a href="https://play.google.com/store/apps/details?id=com.rickartics.chroma_loop">Google Play</a></sub>
+      <p>Send colour shooters round the conveyor loop and blast every pixel picture to pieces. Each shooter only hits the cubes on the edge it faces and the dock fills up fast, so the order you send them in is the whole game. Colour-blind mode included.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="96" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.rickartics.dofguide">
+        <img src="./assets/dofus-guide-icon.png" alt="Dofus Guide app icon" width="80" />
+      </a>
+    </td>
+    <td valign="top">
+      <b>Dofus Guide</b> · Companion for Dofus Touch · Android<br />
+      <sub>Out now on <a href="https://play.google.com/store/apps/details?id=com.rickartics.dofguide">Google Play</a> · iOS coming soon</sub>
+      <p>Everything a Dofus Touch player needs in one pocket guide: classes and builds, a 1→200 leveling path, dungeons, the Dofus egg collection, professions and 100+ quick tips. Works fully offline, with no ads and no account.</p>
+      <sub><i>Fan-made. Not affiliated with or endorsed by Ankama. Dofus is a trademark of Ankama.</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="96" valign="top">
+      <img src="./assets/trilly-icon.png" alt="Trilly app icon" width="80" />
+    </td>
+    <td valign="top">
+      <b>Trilly</b> · Tile match · Android<br />
+      <sub>Coming soon to Google Play</sub>
+      <p>Tap tiles into the tray and pop them in threes until the board is clear. Five candy worlds, a sticker album of 40 little critters, handy boosters and a lucky wheel every day, with Trilly the squishy tile cheering you on.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="96" valign="top">
       <img src="./assets/blocora-icon.png" alt="Blocora app icon" width="80" />
     </td>
     <td valign="top">
       <b>Blocora</b> · Block puzzle · iOS and Android<br />
-      <sub>Coming soon</sub>
+      <sub>Coming soon to Google Play</sub>
       <p>A joyful block puzzle where every line you clear becomes a building, and the buildings grow into your own little borough. Play the same <i>Daily Block</i> as everyone else, once a day.</p>
     </td>
   </tr>
   <tr>
     <td width="96" valign="top">
-      <img src="./assets/dofus-guide-icon.png" alt="Dofus Guide app icon" width="80" />
+      <img src="./assets/kites-away-icon.png" alt="Kites Away app icon" width="80" />
     </td>
     <td valign="top">
-      <b>Dofus Guide</b> · Companion for Dofus Touch · iOS and Android<br />
-      <sub>Coming soon</sub>
-      <p>Everything a Dofus Touch player needs in one pocket guide: classes and builds, a 1→200 leveling path, dungeons, the Dofus egg collection, professions and 100+ quick tips. Works fully offline, with no ads and no account.</p>
-      <sub><i>Fan-made. Not affiliated with or endorsed by Ankama. Dofus is a trademark of Ankama.</i></sub>
+      <b>Kites Away</b> · Untangle puzzle · Android<br />
+      <sub>Coming soon to Google Play</sub>
+      <p>The festival sky is a tangle of kites. Tap one and it flies off the way it points, string and all, as long as nothing is in its way. Find the kite that's free, clear the sky and reveal a hidden pixel postcard.</p>
     </td>
   </tr>
   <tr>
