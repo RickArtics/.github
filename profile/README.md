@@ -94,6 +94,16 @@ Easy to pick up, hard to put down, and made with care from the first pixel to th
     </td>
   </tr>
   <tr>
+    <td width="96" valign="top">
+      <img src="./assets/glassloop-icon.png" alt="Glassloop app icon" width="80" />
+    </td>
+    <td valign="top">
+      <b>Glassloop</b> · Ring puzzle · Android<br />
+      <sub>Coming soon to Google Play</sub>
+      <p>Hold a candy-glass ring and turn it with your finger until every link opens and it slips free into your jar. Pinned rings make each board a little logic puzzle. Five sunny worlds, gears, frost and keys, a daily puzzle, and Pip the glass buddy cheering you on.</p>
+    </td>
+  </tr>
+  <tr>
     <td width="96" align="center" valign="top">
       <h3>＋</h3>
     </td>
