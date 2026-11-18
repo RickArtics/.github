@@ -106,6 +106,18 @@ Easy to pick up, hard to put down, and made with care from the first pixel to th
     </td>
   </tr>
   <tr>
+    <td width="96" valign="top">
+      <a href="https://littledepot.rickartics.com">
+        <img src="./assets/little-depot-icon.png" alt="Little Depot app icon" width="80" />
+      </a>
+    </td>
+    <td valign="top">
+      <b>Little Depot</b> · Tram sort puzzle · Android, iOS and web<br />
+      <sub><a href="https://littledepot.rickartics.com">Play now in your browser</a> · Coming soon to Google Play and the App Store</sub>
+      <p>Clear a crowded tram depot one tap at a time. Each tram drives off the way it faces when its road is clear, passengers board trams of their own colour, and two trams of one colour couple up to share a berth. Calm and unhurried: no timers, 300 levels and a daily puzzle.</p>
+    </td>
+  </tr>
+  <tr>
     <td width="96" align="center" valign="top">
       <h3>＋</h3>
     </td>
